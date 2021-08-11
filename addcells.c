@@ -63,30 +63,30 @@ struct buttons{
     SDL_Texture * text;
 }buttons;
 
-const char* path_head_u = "/home/shrivathsa/reC/graphics/resources/head_u.png";
-const char* path_head_l = "/home/shrivathsa/reC/graphics/resources/head_l.png";
-const char* path_head_d = "/home/shrivathsa/reC/graphics/resources/head_d.png";
-const char* path_head_r = "/home/shrivathsa/reC/graphics/resources/head_r.png";
-const char* path_body_sv = "/home/shrivathsa/reC/graphics/resources/body_sv.png";
-const char* path_body_sh = "/home/shrivathsa/reC/graphics/resources/body_sh.png";
-const char* path_body_ur = "/home/shrivathsa/reC/graphics/resources/body_ur.png";
-const char* path_body_ul = "/home/shrivathsa/reC/graphics/resources/body_ul.png";
-const char* path_body_dr = "/home/shrivathsa/reC/graphics/resources/body_dr.png";
-const char* path_body_dl = "/home/shrivathsa/reC/graphics/resources/body_dl.png";
-const char* path_tail_ul = "/home/shrivathsa/reC/graphics/resources/tail_ul.png";
-const char* path_tail_ur = "/home/shrivathsa/reC/graphics/resources/tail_ur.png";
-const char* path_tail_dl = "/home/shrivathsa/reC/graphics/resources/tail_dl.png";
-const char* path_tail_dr = "/home/shrivathsa/reC/graphics/resources/tail_dr.png";
-const char* path_tail_ll = "/home/shrivathsa/reC/graphics/resources/tail_ll.png";
-const char* path_tail_lr = "/home/shrivathsa/reC/graphics/resources/tail_lr.png";
-const char* path_tail_rl = "/home/shrivathsa/reC/graphics/resources/tail_rl.png";
-const char* path_tail_rr = "/home/shrivathsa/reC/graphics/resources/tail_rr.png";
-const char* path_food = "/home/shrivathsa/reC/graphics/resources/apple.png";
-const char* path_bite = "/home/shrivathsa/reC/graphics/resources/bite.ogg";
-const char* path_bgm = "/home/shrivathsa/reC/graphics/resources/zen.ogg";
-const char* path_tick= "/home/shrivathsa/reC/graphics/resources/tick.png";
-const char* path_no_tick = "/home/shrivathsa/reC/graphics/resources/no_tick.png";
-const char* path_font = "/home/shrivathsa/reC/graphics/resources/DejaVuSansCondensed.ttf";
+const char* path_head_u = "./resources/head_u.png";
+const char* path_head_l = "./resources/head_l.png";
+const char* path_head_d = "./resources/head_d.png";
+const char* path_head_r = "./resources/head_r.png";
+const char* path_body_sv = "./resources/body_sv.png";
+const char* path_body_sh = "./resources/body_sh.png";
+const char* path_body_ur = "./resources/body_ur.png";
+const char* path_body_ul = "./resources/body_ul.png";
+const char* path_body_dr = "./resources/body_dr.png";
+const char* path_body_dl = "./resources/body_dl.png";
+const char* path_tail_ul = "./resources/tail_ul.png";
+const char* path_tail_ur = "./resources/tail_ur.png";
+const char* path_tail_dl = "./resources/tail_dl.png";
+const char* path_tail_dr = "./resources/tail_dr.png";
+const char* path_tail_ll = "./resources/tail_ll.png";
+const char* path_tail_lr = "./resources/tail_lr.png";
+const char* path_tail_rl = "./resources/tail_rl.png";
+const char* path_tail_rr = "./resources/tail_rr.png";
+const char* path_food = "./resources/apple.png";
+const char* path_bite = "./resources/bite.ogg";
+const char* path_bgm = "./resources/zen.ogg";
+const char* path_tick= "./resources/tick.png";
+const char* path_no_tick = "./resources/no_tick.png";
+const char* path_font = "./resources/DejaVuSansCondensed.ttf";
 
 
 struct snake *temp;//a dummy to hold the tail when spawning new food
