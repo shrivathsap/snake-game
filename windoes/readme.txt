@@ -1,1 +1,1 @@
-Unzip the directory and run the .exe
+Store these in the same directory as resources folder
