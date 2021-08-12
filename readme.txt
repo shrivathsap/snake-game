@@ -2,6 +2,7 @@ Hello,
 
 Bite sound from https://ia800809.us.archive.org/6/items/various-sound-effects/lid.ogg
 Background music from https://ia802701.us.archive.org/9/items/BeautifulJapaneseMusicZenGarden/Beautiful%20Japanese%20Music%20-%20Cherry%20Blossoms.ogg
+I made all the textures
 
 For Windows,
 just store the resources folder in the same directory as the files in windoes folder, and run the .exe
